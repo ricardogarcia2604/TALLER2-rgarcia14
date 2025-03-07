@@ -13,6 +13,7 @@ def probando_boa():
     print(boa1.total_ratones())
     print(boa1.calcular_flete())
 
+
 def probando_huron():
     print(huron1.hacer_sonido())
     print(huron1.calcular_flete())
